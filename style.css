@@ -207,6 +207,17 @@ body {
     margin: 40px 0 0 0;
   }
 
+  .imgq1 {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px 0 0;
+  }
+
+  .imgq2 {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px 0 0;
+  }
 
 
 
